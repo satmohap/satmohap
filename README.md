@@ -1,6 +1,6 @@
-### Passionate about Data Science & Machine Learning  and a strong believer that both of these can not only  bring tangible  business outcomes but also improve the quality of human life.
+#### Passionate about Data Science & Machine Learning  and a strong believer that both of these can not only  bring tangible  business outcomes but also improve the quality of human life.
 
-### I possess an unique attitude to continuously strive a  balance between being very hands-on with coding while also being able to think about the bigger picture related to the problem at hand.
+#### I possess an unique attitude to continuously strive a  balance between being very hands-on with coding while also being able to think about the bigger picture related to the problem at hand.
 
 
 <!--
